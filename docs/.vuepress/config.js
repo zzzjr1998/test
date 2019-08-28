@@ -3,6 +3,7 @@ const sidebarConf = require('../../config/sidebarConf.js');
 const navConf = require('../../config/navConf.js');
 
 module.exports = {
+	base: "/test/"
     port: 8080,
     title: '郑俊仁',
     description: 'Just playing around',
